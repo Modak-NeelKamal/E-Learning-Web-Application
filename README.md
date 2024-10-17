@@ -3,7 +3,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # E-Learning-Web-Application
 Web-Learning-Management-System-Application (LMS) built with Next.js 13, React, Stripe for payments, Mux for video streaming, Prisma for database management, Tailwind CSS for styling, and MySQL as the database backend. It provides a user-friendly interface for learners and instructors to create, manage, and deliver engaging online courses seamlessly.
 
+# User Interface
+![image](https://github.com/user-attachments/assets/963aa508-8be0-4332-9d21-6a74967911c1)
+
 # Resume Builder Included
+![image](https://github.com/user-attachments/assets/d8258595-7647-48a9-aa63-2696bf386605)
+
+# Features:
+![image](https://github.com/user-attachments/assets/05dd3965-0b86-4899-8667-e2bea0468b36)
+
+# Dashboard 
+dashboard will show the enrolled courses by users
+![image](https://github.com/user-attachments/assets/4060c264-ea44-475b-9526-1adc5fe19e6c)
 
 
 ## Environment variables
