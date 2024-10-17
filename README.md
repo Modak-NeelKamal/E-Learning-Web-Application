@@ -16,6 +16,11 @@ Web-Learning-Management-System-Application (LMS) built with Next.js 13, React, S
 dashboard will show the enrolled courses by users
 ![image](https://github.com/user-attachments/assets/4060c264-ea44-475b-9526-1adc5fe19e6c)
 
+# Course View 
+![image](https://github.com/user-attachments/assets/74eab1b7-d9af-4323-8950-3db0190ebe08)
+
+# Payment method is used for paid chapters in course: Third party payment Gateway:
+Using the Api the payment method is called
 
 # Teacher Interface
 ![image](https://github.com/user-attachments/assets/93c0b2f5-b4b6-47d1-b900-2a5618cd1c2c)
