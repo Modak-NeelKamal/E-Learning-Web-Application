@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+}
+@layer base {
+  :root {
+    --primary-color: #0ea5e9;
+    --secondary-color: #f59e0b;
+    --font-family: "Inter", sans-serif;
+    --border-radius: 4px;
+  }
+}
+@layer components {
+  .border-border {
+    @apply border; /* Apply the border utility or any other custom styles */
+    border-color: var(
+      --your-border-color
+    ); /* Replace with your desired border color */
+  }
+}
+
+.ql-container {
+  font-size: 16px !important;
+}
+
+@import "~@uploadthing/react/styles.css";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(dashboard)/(routes)/teacher/courses/page": "app/(dashboard)/(routes)/teacher/courses/page.js",
+  "/(dashboard)/(routes)/search/page": "app/(dashboard)/(routes)/search/page.js",
+  "/(course)/courses/[courseId]/chapters/[chapterId]/page": "app/(course)/courses/[courseId]/chapters/[chapterId]/page.js",
+  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "app/(auth)/(routes)/sign-in/[[...sign-in]]/page.js",
+  "/(dashboard)/(routes)/teacher/analytics/page": "app/(dashboard)/(routes)/teacher/analytics/page.js",
+  "/(dashboard)/(routes)/(root)/page": "app/(dashboard)/(routes)/(root)/page.js"
+}
