@@ -17,6 +17,23 @@ dashboard will show the enrolled courses by users
 ![image](https://github.com/user-attachments/assets/4060c264-ea44-475b-9526-1adc5fe19e6c)
 
 
+# Teacher Interface
+![image](https://github.com/user-attachments/assets/93c0b2f5-b4b6-47d1-b900-2a5618cd1c2c)
+
+# New Course
+![image](https://github.com/user-attachments/assets/d034ed66-ce1d-4137-8a97-695ee09dd760)
+
+# Chapter Creation : 
+After clicking the new chapter , user have to put the chapter name and save , After clicking edit button
+![image](https://github.com/user-attachments/assets/42bbefdc-2ab7-4b0f-a129-736ddf8f27aa)
+
+# Analytics for teacher
+![image](https://github.com/user-attachments/assets/7d000af3-72f1-4297-bf4f-d3743ca67a53)
+
+# Clerk Authentication
+![image](https://github.com/user-attachments/assets/b10394da-b777-46f9-9a58-b590efcbeb91)
+
+
 ## Environment variables
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aGVscGZ1bC1oYWRkb2NrLTQ0LmNsZXJrLmFjY291bnRzLmRldiQ
 CLERK_SECRET_KEY=sk_test_P6X4cNGHgNvik5iVUc7xSp3kRmudGeBce0xuU0evM0
