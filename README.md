@@ -40,8 +40,8 @@ After clicking the new chapter , user have to put the chapter name and save , Af
 
 
 ## Environment variables
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aGVscGZ1bC1oYWRkb2NrLTQ0LmNsZXJrLmFjY291bnRzLmRldiQ
-CLERK_SECRET_KEY=sk_test_P6X4cNGHgNvik5iVUc7xSp3kRmudGeBce0xuU0evM0
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aGVscGZ1bC1o#####rLTQ0LmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_P6X4cNGHgNvik5iVUc7xSp3kRdG$$$e0xuU0evM0
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
